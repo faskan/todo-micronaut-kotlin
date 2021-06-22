@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.faskan
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, http-client, junit, kotlin, kotlin-application, logback, maven, mongo-sync, netty-server, readme, shade, testcontainers, yaml]
